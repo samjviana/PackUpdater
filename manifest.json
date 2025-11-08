@@ -1,6 +1,6 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
@@ -152,6 +152,15 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/4075/832/Cyclic-1.12.2-1.20.14.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Dynmap-3.6-forge-1.12.2.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/4632/192/Dynmap-3.6-forge-1.12.2.jar"
                 }
             ]
         },
@@ -406,6 +415,10 @@
                     "url": "https://edge.forgecdn.net/files/4465/824/OptiFine_1.12.2_HD_U_G5.jar"
                 }
             ]
+        },
+        {
+            "fileName": "PackUpdater-0.0.1.jar",
+            "sources": []
         },
         {
             "fileName": "plustic-9.2.1-original-mc1.12.2.jar",
