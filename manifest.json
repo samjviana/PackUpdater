@@ -1,9 +1,10 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
+            "version": "10.7",
             "sources": [
                 {
                     "type": "curseforge",
@@ -13,6 +14,7 @@
         },
         {
             "fileName": "aether-1.12.2-v1.5.4.1.jar",
+            "version": "v1.5.4.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -21,7 +23,18 @@
             ]
         },
         {
+            "fileName": "Apotheosis-1.12.2-1.12.5.jar",
+            "version": "1.12.2-1.12.5",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2906/487/Apotheosis-1.12.2-1.12.5.jar"
+                }
+            ]
+        },
+        {
             "fileName": "AppleSkin-mc1.12-1.0.14.jar",
+            "version": "1.0.14",
             "sources": [
                 {
                     "type": "curseforge",
@@ -31,6 +44,7 @@
         },
         {
             "fileName": "artifacts-1.12.2-1.2.4.jar",
+            "version": "${version}",
             "sources": [
                 {
                     "type": "curseforge",
@@ -40,6 +54,7 @@
         },
         {
             "fileName": "AsmodeusCore-1.12.2-1.0.5.jar",
+            "version": "1.0.2",
             "sources": [
                 {
                     "type": "curseforge",
@@ -49,6 +64,7 @@
         },
         {
             "fileName": "AutoRegLib-1.3-32.jar",
+            "version": "1.3-32",
             "sources": [
                 {
                     "type": "curseforge",
@@ -58,6 +74,7 @@
         },
         {
             "fileName": "Baubles-1.12-1.5.2.jar",
+            "version": "1.12-1.5.2",
             "sources": [
                 {
                     "type": "curseforge",
@@ -67,6 +84,7 @@
         },
         {
             "fileName": "Baubley-Elytra-v1.3.3-mc1.12.2.jar",
+            "version": "v1.3.3-mc1.12.2",
             "sources": [
                 {
                     "type": "curseforge",
@@ -76,6 +94,7 @@
         },
         {
             "fileName": "BetterAdvancements-1.12.2-0.1.0.77.jar",
+            "version": "0.1.0",
             "sources": [
                 {
                     "type": "curseforge",
@@ -85,6 +104,7 @@
         },
         {
             "fileName": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+            "version": "2.4.6",
             "sources": [
                 {
                     "type": "curseforge",
@@ -94,6 +114,7 @@
         },
         {
             "fileName": "BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+            "version": "7.0.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -103,6 +124,7 @@
         },
         {
             "fileName": "Chameleon-1.12-4.1.3.jar",
+            "version": "1.12-4.1.3",
             "sources": [
                 {
                     "type": "curseforge",
@@ -112,6 +134,7 @@
         },
         {
             "fileName": "Clumps-3.1.2.jar",
+            "version": "3.1.2",
             "sources": [
                 {
                     "type": "curseforge",
@@ -121,6 +144,7 @@
         },
         {
             "fileName": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+            "version": "3.2.3.358",
             "sources": [
                 {
                     "type": "curseforge",
@@ -130,6 +154,7 @@
         },
         {
             "fileName": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+            "version": "4.6.6.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -139,6 +164,7 @@
         },
         {
             "fileName": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+            "version": "1.4.0.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -148,6 +174,7 @@
         },
         {
             "fileName": "Cyclic-1.12.2-1.20.14.jar",
+            "version": "1.20.12",
             "sources": [
                 {
                     "type": "curseforge",
@@ -157,6 +184,7 @@
         },
         {
             "fileName": "Dynmap-3.6-forge-1.12.2.jar",
+            "version": "3.6-818",
             "sources": [
                 {
                     "type": "curseforge",
@@ -166,6 +194,7 @@
         },
         {
             "fileName": "ElevatorMod-1.12.2-1.3.14.jar",
+            "version": "1.12.2-1.3.14",
             "sources": [
                 {
                     "type": "curseforge",
@@ -175,6 +204,7 @@
         },
         {
             "fileName": "farsight-1.6.jar",
+            "version": "1.6",
             "sources": [
                 {
                     "type": "curseforge",
@@ -184,6 +214,7 @@
         },
         {
             "fileName": "FastFurnace-1.12.2-1.3.1.jar",
+            "version": "1.12.2-1.3.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -193,6 +224,7 @@
         },
         {
             "fileName": "FastWorkbench-1.12.2-1.7.4.jar",
+            "version": "1.12.2-1.7.4",
             "sources": [
                 {
                     "type": "curseforge",
@@ -202,6 +234,7 @@
         },
         {
             "fileName": "Forgelin-1.8.4.jar",
+            "version": "1.8.4",
             "sources": [
                 {
                     "type": "curseforge",
@@ -211,6 +244,7 @@
         },
         {
             "fileName": "GalacticComputers-1.0.0.jar",
+            "version": "1.0.0",
             "sources": [
                 {
                     "type": "curseforge",
@@ -220,6 +254,7 @@
         },
         {
             "fileName": "Galacticraft-1.12.2-4.0.7.jar",
+            "version": "4.0.7",
             "sources": [
                 {
                     "type": "curseforge",
@@ -229,6 +264,7 @@
         },
         {
             "fileName": "GalaxySpace-1.12.2-2.2.0.jar",
+            "version": "1.0.2",
             "sources": [
                 {
                     "type": "curseforge",
@@ -238,6 +274,7 @@
         },
         {
             "fileName": "gravestone-1.10.3.jar",
+            "version": "1.10.3",
             "sources": [
                 {
                     "type": "curseforge",
@@ -247,6 +284,7 @@
         },
         {
             "fileName": "HammerLib-1.12.2-12.2.58.jar",
+            "version": "12.2-58",
             "sources": [
                 {
                     "type": "curseforge",
@@ -256,6 +294,7 @@
         },
         {
             "fileName": "Hwyla-1.8.26-B41_1.12.2.jar",
+            "version": "1.8.26",
             "sources": [
                 {
                     "type": "curseforge",
@@ -265,6 +304,7 @@
         },
         {
             "fileName": "ImprovableSkills-1.12.2-12.4.68.jar",
+            "version": "12.4.68",
             "sources": [
                 {
                     "type": "curseforge",
@@ -274,6 +314,7 @@
         },
         {
             "fileName": "industrialforegoing-1.12.2-1.12.13-237.jar",
+            "version": "1.12.13",
             "sources": [
                 {
                     "type": "curseforge",
@@ -283,6 +324,7 @@
         },
         {
             "fileName": "Jade-0.1.0.jar",
+            "version": "0.1.0",
             "sources": [
                 {
                     "type": "curseforge",
@@ -292,6 +334,7 @@
         },
         {
             "fileName": "jei_1.12.2-4.16.1.1013.jar",
+            "version": "4.16.1.1013",
             "sources": [
                 {
                     "type": "curseforge",
@@ -301,6 +344,7 @@
         },
         {
             "fileName": "journeymap-1.12.2-5.7.1p3.jar",
+            "version": "1.12.2-5.7.1p3",
             "sources": [
                 {
                     "type": "curseforge",
@@ -310,6 +354,7 @@
         },
         {
             "fileName": "justenoughdimensions-1.12.2-1.6.0-dev.20200416.184714.jar",
+            "version": "1.6.0-dev.20200416.184714",
             "sources": [
                 {
                     "type": "curseforge",
@@ -319,6 +364,7 @@
         },
         {
             "fileName": "JustEnoughResources-1.12.2-0.9.2.60.jar",
+            "version": "0.9.2",
             "sources": [
                 {
                     "type": "curseforge",
@@ -328,6 +374,7 @@
         },
         {
             "fileName": "lootr-1.12.2-0.6.2.jar",
+            "version": "0.6.2",
             "sources": [
                 {
                     "type": "curseforge",
@@ -337,6 +384,7 @@
         },
         {
             "fileName": "Mantle-1.12-1.3.3.55.jar",
+            "version": "1.3.3.55",
             "sources": [
                 {
                     "type": "curseforge",
@@ -346,6 +394,7 @@
         },
         {
             "fileName": "Mekanism-1.12.2-9.8.3.390.jar",
+            "version": "1.12.2-9.8.3.390",
             "sources": [
                 {
                     "type": "curseforge",
@@ -355,6 +404,7 @@
         },
         {
             "fileName": "MekanismGenerators-1.12.2-9.8.3.390.jar",
+            "version": "1.12.2-9.8.3.390",
             "sources": [
                 {
                     "type": "curseforge",
@@ -364,6 +414,7 @@
         },
         {
             "fileName": "millenaire-8.1.2.jar",
+            "version": "8.1.2",
             "sources": [
                 {
                     "type": "curseforge",
@@ -373,6 +424,7 @@
         },
         {
             "fileName": "millenairejei-1.12.2-1.0.0-beta001.jar",
+            "version": "0.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -382,6 +434,7 @@
         },
         {
             "fileName": "moreoverlays-1.15.1-mc1.12.2.jar",
+            "version": "1.15.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -391,6 +444,7 @@
         },
         {
             "fileName": "NaturesCompass-1.12.2-1.8.5-forge.jar",
+            "version": "1.12.2-1.8.5",
             "sources": [
                 {
                     "type": "curseforge",
@@ -400,6 +454,7 @@
         },
         {
             "fileName": "OpenComputers-MC1.12.2-1.8.9a+8ca336f.jar",
+            "version": "1.8.9a",
             "sources": [
                 {
                     "type": "curseforge",
@@ -409,6 +464,7 @@
         },
         {
             "fileName": "OptiFine_1.12.2_HD_U_G5.jar",
+            "version": "HD_U_G5",
             "sources": [
                 {
                     "type": "curseforge",
@@ -418,10 +474,22 @@
         },
         {
             "fileName": "PackUpdater-0.0.1.jar",
+            "version": "0.0.1",
             "sources": []
         },
         {
+            "fileName": "Placebo-1.12.2-1.6.1.jar",
+            "version": "1.12.2-1.6.1",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/4629/597/Placebo-1.12.2-1.6.1.jar"
+                }
+            ]
+        },
+        {
             "fileName": "plustic-9.2.1-original-mc1.12.2.jar",
+            "version": "9.2.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -431,6 +499,7 @@
         },
         {
             "fileName": "Quark-r1.6-179.jar",
+            "version": "r1.6-179",
             "sources": [
                 {
                     "type": "curseforge",
@@ -440,6 +509,7 @@
         },
         {
             "fileName": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+            "version": "2.1.1.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -449,6 +519,7 @@
         },
         {
             "fileName": "refinedstorage-1.6.16.jar",
+            "version": "1.6.16",
             "sources": [
                 {
                     "type": "curseforge",
@@ -458,6 +529,7 @@
         },
         {
             "fileName": "SoulShardsRespawn-1.12.2-1.1.1-13.jar",
+            "version": "1.12.2-1.1.1-13",
             "sources": [
                 {
                     "type": "curseforge",
@@ -467,6 +539,7 @@
         },
         {
             "fileName": "StorageDrawers-1.12.2-5.5.3.jar",
+            "version": "5.5.3",
             "sources": [
                 {
                     "type": "curseforge",
@@ -476,6 +549,7 @@
         },
         {
             "fileName": "TConstruct-1.12.2-2.13.0.183.jar",
+            "version": "1.12.2-2.13.0.183",
             "sources": [
                 {
                     "type": "curseforge",
@@ -485,6 +559,7 @@
         },
         {
             "fileName": "tesla-core-lib-1.12.2-1.0.18.jar",
+            "version": "1.12.2-1.0.18",
             "sources": [
                 {
                     "type": "curseforge",
@@ -494,6 +569,7 @@
         },
         {
             "fileName": "ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
+            "version": "0.3.6.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -503,6 +579,7 @@
         },
         {
             "fileName": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+            "version": "2.5.6.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -512,6 +589,7 @@
         },
         {
             "fileName": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+            "version": "5.5.7.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -521,6 +599,7 @@
         },
         {
             "fileName": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+            "version": "2.6.7.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -530,6 +609,7 @@
         },
         {
             "fileName": "ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
+            "version": "0.3.6.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -539,6 +619,7 @@
         },
         {
             "fileName": "ThermalTinkering-1.12.2-2.0.1.jar",
+            "version": "1.12.2-2.0.1",
             "sources": [
                 {
                     "type": "curseforge",
@@ -548,6 +629,7 @@
         },
         {
             "fileName": "tinkersaether-1.4.1.jar",
+            "version": "1.4.0",
             "sources": [
                 {
                     "type": "curseforge",
@@ -557,6 +639,7 @@
         },
         {
             "fileName": "tinkersjei-1.2.jar",
+            "version": "1.2",
             "sources": [
                 {
                     "type": "curseforge",
@@ -566,6 +649,7 @@
         },
         {
             "fileName": "TinkerToolLeveling-1.12.2-1.1.0.jar",
+            "version": "1.12.2-1.1.0",
             "sources": [
                 {
                     "type": "curseforge",
@@ -575,6 +659,7 @@
         },
         {
             "fileName": "TravelersBackpack-1.12.2-1.0.35.jar",
+            "version": "1.0.35",
             "sources": [
                 {
                     "type": "curseforge",
@@ -584,6 +669,7 @@
         },
         {
             "fileName": "Trinkets and Baubles-0.32.5.jar",
+            "version": "0.32.5",
             "sources": [
                 {
                     "type": "curseforge",
@@ -593,6 +679,7 @@
         },
         {
             "fileName": "Waystones_1.12.2-4.1.0.jar",
+            "version": "4.1.0",
             "sources": [
                 {
                     "type": "curseforge",
