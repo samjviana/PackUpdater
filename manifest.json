@@ -1,13 +1,292 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "mods": [
+        {
+            "fileName": "!mixinbooter-10.7.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/7049/694/!mixinbooter-10.7.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "aether-1.12.2-v1.5.4.1.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/6316/434/aether-1.12.2-v1.5.4.1.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "AppleSkin-mc1.12-1.0.14.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2987/247/AppleSkin-mc1.12-1.0.14.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "artifacts-1.12.2-1.2.4.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/4871/204/artifacts-1.12.2-1.2.4.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "AsmodeusCore-1.12.2-1.0.5.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/7180/991/AsmodeusCore-1.12.2-1.0.5.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "AutoRegLib-1.3-32.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2746/11/AutoRegLib-1.3-32.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Baubles-1.12-1.5.2.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Baubley-Elytra-v1.3.3-mc1.12.2.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/4399/994/Baubley-Elytra-v1.3.3-mc1.12.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "BetterAdvancements-1.12.2-0.1.0.77.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2685/984/BetterAdvancements-1.12.2-0.1.0.77.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3647/708/BiblioCraft%5bv2.4.6%5d%5bMC1.12.2%5d.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3558/882/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Chameleon-1.12-4.1.3.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2450/900/Chameleon-1.12-4.1.3.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Clumps-3.1.2.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2666/198/Clumps-3.1.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2920/433/CoFHCore-1.12.2-4.6.6.1-universal.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2920/434/CoFHWorld-1.12.2-1.4.0.1-universal.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Cyclic-1.12.2-1.20.14.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/4075/832/Cyclic-1.12.2-1.20.14.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "ElevatorMod-1.12.2-1.3.14.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2845/365/ElevatorMod-1.12.2-1.3.14.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "farsight-1.6.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/4716/907/farsight-1.6.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "FastFurnace-1.12.2-1.3.1.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2706/111/FastFurnace-1.12.2-1.3.1.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "FastWorkbench-1.12.2-1.7.4.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/4030/366/FastWorkbench-1.12.2-1.7.4.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Forgelin-1.8.4.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2785/465/Forgelin-1.8.4.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "GalacticComputers-1.0.0.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3414/71/GalacticComputers-1.0.0.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Galacticraft-1.12.2-4.0.7.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/6364/107/Galacticraft-1.12.2-4.0.7.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "GalaxySpace-1.12.2-2.2.0.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/7005/609/GalaxySpace-1.12.2-2.2.0.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "gravestone-1.10.3.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2744/766/gravestone-1.10.3.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "HammerLib-1.12.2-12.2.58.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/6348/753/HammerLib-1.12.2-12.2.58.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Hwyla-1.8.26-B41_1.12.2.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2568/751/Hwyla-1.8.26-B41_1.12.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "ImprovableSkills-1.12.2-12.4.68.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3930/794/ImprovableSkills-1.12.2-12.4.68.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "industrialforegoing-1.12.2-1.12.13-237.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2745/321/industrialforegoing-1.12.2-1.12.13-237.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Jade-0.1.0.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2735/905/Jade-0.1.0.jar"
+                }
+            ]
+        },
         {
             "fileName": "jei_1.12.2-4.16.1.1013.jar",
             "sources": [
                 {
                     "type": "curseforge",
-                    "url": "https://mediafilez.forgecdn.net/files/5846/804/jei_1.12.2-4.16.1.1013.jar"
+                    "url": "https://edge.forgecdn.net/files/5846/804/jei_1.12.2-4.16.1.1013.jar"
                 }
             ]
         },
@@ -16,7 +295,295 @@
             "sources": [
                 {
                     "type": "curseforge",
-                    "url": "https://mediafilez.forgecdn.net/files/5172/461/journeymap-1.12.2-5.7.1p3.jar"
+                    "url": "https://edge.forgecdn.net/files/5172/461/journeymap-1.12.2-5.7.1p3.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "justenoughdimensions-1.12.2-1.6.0-dev.20200416.184714.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2932/48/justenoughdimensions-1.12.2-1.6.0-dev.20200416.184714.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "JustEnoughResources-1.12.2-0.9.2.60.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2728/585/JustEnoughResources-1.12.2-0.9.2.60.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "lootr-1.12.2-0.6.2.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/4756/301/lootr-1.12.2-0.6.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Mantle-1.12-1.3.3.55.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2713/386/Mantle-1.12-1.3.3.55.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Mekanism-1.12.2-9.8.3.390.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2835/175/Mekanism-1.12.2-9.8.3.390.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "MekanismGenerators-1.12.2-9.8.3.390.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2835/177/MekanismGenerators-1.12.2-9.8.3.390.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "millenaire-8.1.2.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3887/515/millenaire-8.1.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "millenairejei-1.12.2-1.0.0-beta001.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3088/162/millenairejei-1.12.2-1.0.0-beta001.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "moreoverlays-1.15.1-mc1.12.2.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2745/657/moreoverlays-1.15.1-mc1.12.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "NaturesCompass-1.12.2-1.8.5-forge.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2893/527/NaturesCompass-1.12.2-1.8.5.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "OpenComputers-MC1.12.2-1.8.9a+8ca336f.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/6608/365/OpenComputers-MC1.12.2-1.8.9a%2b8ca336f.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "OptiFine_1.12.2_HD_U_G5.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/4465/824/OptiFine_1.12.2_HD_U_G5.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "plustic-9.2.1-original-mc1.12.2.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/5661/244/plustic-9.2.1-original-mc1.12.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Quark-r1.6-179.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2924/91/Quark-r1.6-179.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2920/436/RedstoneFlux-1.12-2.1.1.1-universal.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "refinedstorage-1.6.16.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2940/914/refinedstorage-1.6.16.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "SoulShardsRespawn-1.12.2-1.1.1-13.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2741/336/SoulShardsRespawn-1.12.2-1.1.1-13.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "StorageDrawers-1.12.2-5.5.3.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/5981/297/StorageDrawers-1.12.2-5.5.3.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "TConstruct-1.12.2-2.13.0.183.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2902/483/TConstruct-1.12.2-2.13.0.183.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "tesla-core-lib-1.12.2-1.0.18.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3438/487/tesla-core-lib-1.12.2-1.0.18.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2920/437/ThermalCultivation-1.12.2-0.3.6.1-universal.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2920/505/ThermalDynamics-1.12.2-2.5.6.1-universal.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2926/431/ThermalExpansion-1.12.2-5.5.7.1-universal.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2926/428/ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2920/441/ThermalInnovation-1.12.2-0.3.6.1-universal.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "ThermalTinkering-1.12.2-2.0.1.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2684/43/ThermalTinkering-1.12.2-2.0.1.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "tinkersaether-1.4.1.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3215/120/tinkersaether-1.4.1.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "tinkersjei-1.2.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2701/203/tinkersjei-1.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "TinkerToolLeveling-1.12.2-1.1.0.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2630/860/TinkerToolLeveling-1.12.2-1.1.0.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "TravelersBackpack-1.12.2-1.0.35.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3150/850/TravelersBackpack-1.12.2-1.0.35.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Trinkets and Baubles-0.32.5.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/5717/39/Trinkets%20and%20Baubles-0.32.5.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Waystones_1.12.2-4.1.0.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2859/589/Waystones_1.12.2-4.1.0.jar"
                 }
             ]
         }
