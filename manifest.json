@@ -1,6 +1,6 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.0.2",
+    "version": "1.0.1",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
@@ -19,16 +19,6 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/6316/434/aether-1.12.2-v1.5.4.1.jar"
-                }
-            ]
-        },
-        {
-            "fileName": "Apotheosis-1.12.2-1.12.5.jar",
-            "version": "1.12.2-1.12.5",
-            "sources": [
-                {
-                    "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/2906/487/Apotheosis-1.12.2-1.12.5.jar"
                 }
             ]
         },
@@ -476,16 +466,6 @@
             "fileName": "PackUpdater-0.0.1.jar",
             "version": "0.0.1",
             "sources": []
-        },
-        {
-            "fileName": "Placebo-1.12.2-1.6.1.jar",
-            "version": "1.12.2-1.6.1",
-            "sources": [
-                {
-                    "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/4629/597/Placebo-1.12.2-1.6.1.jar"
-                }
-            ]
         },
         {
             "fileName": "plustic-9.2.1-original-mc1.12.2.jar",
