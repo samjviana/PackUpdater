@@ -1,0 +1,23 @@
+{
+    "modpack": "GalactiCraft 1.12.2",
+    "mods": [
+        {
+            "fileName": "jei_1.12.2-4.16.1.1013.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://mediafilez.forgecdn.net/files/5846/804/jei_1.12.2-4.16.1.1013.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "journeymap-1.12.2-5.7.1p3.jar",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://mediafilez.forgecdn.net/files/5172/461/journeymap-1.12.2-5.7.1p3.jar"
+                }
+            ]
+        }
+    ]
+}
