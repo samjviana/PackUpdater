@@ -1,6 +1,6 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
@@ -113,6 +113,16 @@
             ]
         },
         {
+            "fileName": "biolib-1.1.3.jar",
+            "version": "1.1.3",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3411/757/biolib-1.1.3.jar"
+                }
+            ]
+        },
+        {
             "fileName": "BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
             "version": "7.0.1",
             "sources": [
@@ -179,6 +189,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2915/363/CTM-MC1.12.2-1.0.2.31.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Cucumber-1.12.2-1.1.3.jar",
+            "version": "1.1.3",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2645/867/Cucumber-1.12.2-1.1.3.jar"
                 }
             ]
         },
@@ -503,12 +523,32 @@
             ]
         },
         {
+            "fileName": "moartinkers-0.6.0.jar",
+            "version": "0.6.0",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2579/934/moartinkers-0.6.0.jar"
+                }
+            ]
+        },
+        {
             "fileName": "moreoverlays-1.15.1-mc1.12.2.jar",
             "version": "1.15.1",
             "sources": [
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2745/657/moreoverlays-1.15.1-mc1.12.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "MysticalAgriculture-1.12.2-1.7.5.jar",
+            "version": "1.7.3",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2704/562/MysticalAgriculture-1.12.2-1.7.5.jar"
                 }
             ]
         },
@@ -724,6 +764,26 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2701/203/tinkersjei-1.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "tinkersoc-0.6.jar",
+            "version": "0.4",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2645/185/tinkersoc-0.6.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "tinkers_reforged-1.5.6.jar",
+            "version": "1.5.6",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3414/82/tinkers_reforged-1.5.6.jar"
                 }
             ]
         },
