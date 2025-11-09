@@ -1,6 +1,6 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
@@ -29,6 +29,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2987/247/AppleSkin-mc1.12-1.0.14.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Aquaculture-1.12.2-1.6.8.jar",
+            "version": "1.12.2-1.6.8",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2659/258/Aquaculture-1.12.2-1.6.8.jar"
                 }
             ]
         },
@@ -163,6 +173,16 @@
             ]
         },
         {
+            "fileName": "CTM-MC1.12.2-1.0.2.31.jar",
+            "version": "MC1.12.2-1.0.2.31",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2915/363/CTM-MC1.12.2-1.0.2.31.jar"
+                }
+            ]
+        },
+        {
             "fileName": "Cyclic-1.12.2-1.20.14.jar",
             "version": "1.20.12",
             "sources": [
@@ -203,6 +223,16 @@
             ]
         },
         {
+            "fileName": "EnderStorage-1.12.2-2.4.6.137-universal.jar",
+            "version": "2.4.6.137",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2755/787/EnderStorage-1.12.2-2.4.6.137-universal.jar"
+                }
+            ]
+        },
+        {
             "fileName": "farsight-1.6.jar",
             "version": "1.6",
             "sources": [
@@ -233,12 +263,32 @@
             ]
         },
         {
+            "fileName": "FluxNetworks-1.12.2-4.1.1.34.jar",
+            "version": "4.1.1.34",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3178/199/FluxNetworks-1.12.2-4.1.1.34.jar"
+                }
+            ]
+        },
+        {
             "fileName": "Forgelin-1.8.4.jar",
             "version": "1.8.4",
             "sources": [
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2785/465/Forgelin-1.8.4.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "fusion-1.2.11-forge-mc1.12.jar",
+            "version": "1.2.11",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/6916/528/fusion-1.2.11-forge-mc1.12.jar"
                 }
             ]
         },
@@ -329,6 +379,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2735/905/Jade-0.1.0.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "jeiintegration_1.12.2-1.6.0.jar",
+            "version": "1.6.0",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2951/731/jeiintegration_1.12.2-1.6.0.jar"
                 }
             ]
         },
@@ -433,6 +493,16 @@
             ]
         },
         {
+            "fileName": "MmmMmmMmmMmm-1.12-2.0.5.jar",
+            "version": "2.0.0",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/6391/31/MmmMmmMmmMmm-1.12-2.0.5.jar"
+                }
+            ]
+        },
+        {
             "fileName": "moreoverlays-1.15.1-mc1.12.2.jar",
             "version": "1.15.1",
             "sources": [
@@ -476,6 +546,16 @@
             "fileName": "PackUpdater-0.0.1.jar",
             "version": "0.0.1",
             "sources": []
+        },
+        {
+            "fileName": "Patchouli-1.0-23.6.jar",
+            "version": "1.0-23.6",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3162/874/Patchouli-1.0-23.6.jar"
+                }
+            ]
         },
         {
             "fileName": "plustic-9.2.1-original-mc1.12.2.jar",
@@ -524,6 +604,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2741/336/SoulShardsRespawn-1.12.2-1.1.1-13.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "stg-1.12.2-1.2.3.jar",
+            "version": "1.12.2-1.2.3",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2508/268/stg-1.12.2-1.2.3.jar"
                 }
             ]
         },
@@ -664,6 +754,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/5717/39/Trinkets%20and%20Baubles-0.32.5.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "twilightforest-1.12.2-3.11.1021-universal.jar",
+            "version": "3.11.1021",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3051/450/twilightforest-1.12.2-3.11.1021-universal.jar"
                 }
             ]
         },
