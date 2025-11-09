@@ -283,16 +283,6 @@
             ]
         },
         {
-            "fileName": "fusion-1.2.11-forge-mc1.12.jar",
-            "version": "1.2.11",
-            "sources": [
-                {
-                    "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/6916/528/fusion-1.2.11-forge-mc1.12.jar"
-                }
-            ]
-        },
-        {
             "fileName": "GalacticComputers-1.0.0.jar",
             "version": "1.0.0",
             "sources": [
@@ -754,16 +744,6 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/5717/39/Trinkets%20and%20Baubles-0.32.5.jar"
-                }
-            ]
-        },
-        {
-            "fileName": "twilightforest-1.12.2-3.11.1021-universal.jar",
-            "version": "3.11.1021",
-            "sources": [
-                {
-                    "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/3051/450/twilightforest-1.12.2-3.11.1021-universal.jar"
                 }
             ]
         },
