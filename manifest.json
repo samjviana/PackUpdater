@@ -1,6 +1,6 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
@@ -519,16 +519,6 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/6391/31/MmmMmmMmmMmm-1.12-2.0.5.jar"
-                }
-            ]
-        },
-        {
-            "fileName": "moartinkers-0.6.0.jar",
-            "version": "0.6.0",
-            "sources": [
-                {
-                    "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/2579/934/moartinkers-0.6.0.jar"
                 }
             ]
         },
