@@ -1,6 +1,6 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
@@ -19,6 +19,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/6316/434/aether-1.12.2-v1.5.4.1.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Apotheosis-1.12.2-1.12.5.jar",
+            "version": "1.12.2-1.12.5",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2906/487/Apotheosis-1.12.2-1.12.5.jar"
                 }
             ]
         },
@@ -584,6 +594,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/3162/874/Patchouli-1.0-23.6.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "Placebo-1.12.2-1.6.1.jar",
+            "version": "1.12.2-1.6.1",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/4629/597/Placebo-1.12.2-1.6.1.jar"
                 }
             ]
         },
