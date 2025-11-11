@@ -1,6 +1,6 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
@@ -389,6 +389,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2745/321/industrialforegoing-1.12.2-1.12.13-237.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "ironchest-1.12.2-7.0.72.847.jar",
+            "version": "1.12.2-7.0.67.844",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar"
                 }
             ]
         },
