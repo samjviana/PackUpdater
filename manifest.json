@@ -1,6 +1,6 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
@@ -149,6 +149,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2450/900/Chameleon-1.12-4.1.3.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "chunkloaders-1.2.9-forge-mc1.12.jar",
+            "version": "1.2.9",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/6840/843/chunkloaders-1.2.9-forge-mc1.12.jar"
                 }
             ]
         },
@@ -395,12 +405,7 @@
         {
             "fileName": "ironchest-1.12.2-7.0.72.847.jar",
             "version": "1.12.2-7.0.67.844",
-            "sources": [
-                {
-                    "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar"
-                }
-            ]
+            "sources": []
         },
         {
             "fileName": "Jade-0.1.0.jar",
@@ -688,6 +693,16 @@
             ]
         },
         {
+            "fileName": "supermartijn642configlib-1.1.8-forge-mc1.12.jar",
+            "version": "1.1.8",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/4715/393/supermartijn642configlib-1.1.8-forge-mc1.12.jar"
+                }
+            ]
+        },
+        {
             "fileName": "TConstruct-1.12.2-2.13.0.183.jar",
             "version": "1.12.2-2.13.0.183",
             "sources": [
@@ -844,6 +859,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2859/589/Waystones_1.12.2-4.1.0.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "_supermartijn642corelib-1.1.18a-forge-mc1.12.jar",
+            "version": "1.1.18+a",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/6863/699/_supermartijn642corelib-1.1.18a-forge-mc1.12.jar"
                 }
             ]
         }
