@@ -1,6 +1,6 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.0.8",
+    "version": "1.1.0",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
@@ -203,6 +203,16 @@
             ]
         },
         {
+            "fileName": "Controlling-3.0.12.4.jar",
+            "version": "3.0.12.4",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/5408/385/Controlling-3.0.12.4.jar"
+                }
+            ]
+        },
+        {
             "fileName": "CTM-MC1.12.2-1.0.2.31.jar",
             "version": "MC1.12.2-1.0.2.31",
             "sources": [
@@ -269,6 +279,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2755/787/EnderStorage-1.12.2-2.4.6.137-universal.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "entityculling-1.12.2-1.6.3.jar",
+            "version": "1.6.3",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/5170/9/entityculling-1.12.2-1.6.3.jar"
                 }
             ]
         },
@@ -405,7 +425,12 @@
         {
             "fileName": "ironchest-1.12.2-7.0.72.847.jar",
             "version": "1.12.2-7.0.67.844",
-            "sources": []
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar"
+                }
+            ]
         },
         {
             "fileName": "Jade-0.1.0.jar",
@@ -558,6 +583,16 @@
             ]
         },
         {
+            "fileName": "MouseTweaks-2.10-mc1.12.2.jar",
+            "version": "2.10",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar"
+                }
+            ]
+        },
+        {
             "fileName": "MysticalAgriculture-1.12.2-1.7.5.jar",
             "version": "1.7.3",
             "sources": [
@@ -584,16 +619,6 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/6608/365/OpenComputers-MC1.12.2-1.8.9a%2b8ca336f.jar"
-                }
-            ]
-        },
-        {
-            "fileName": "OptiFine_1.12.2_HD_U_G5.jar",
-            "version": "HD_U_G5",
-            "sources": [
-                {
-                    "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/4465/824/OptiFine_1.12.2_HD_U_G5.jar"
                 }
             ]
         },
