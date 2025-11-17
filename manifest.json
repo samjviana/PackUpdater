@@ -23,6 +23,16 @@
             ]
         },
         {
+            "fileName": "AmbientSounds_v3.1.7_mc1.12.2.jar",
+            "version": "3.1.7",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3516/274/AmbientSounds_v3.1.7_mc1.12.2.jar"
+                }
+            ]
+        },
+        {
             "fileName": "Apotheosis-1.12.2-1.12.5.jar",
             "version": "1.12.2-1.12.5",
             "sources": [
@@ -209,6 +219,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/5408/385/Controlling-3.0.12.4.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "CreativeCore_v1.10.71_mc1.12.2.jar",
+            "version": "1.10",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/4722/163/CreativeCore_v1.10.71_mc1.12.2.jar"
                 }
             ]
         },
