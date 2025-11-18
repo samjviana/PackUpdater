@@ -1,6 +1,6 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
@@ -25,12 +25,7 @@
         {
             "fileName": "AmbientSounds_v3.1.7_mc1.12.2.jar",
             "version": "3.1.7",
-            "sources": [
-                {
-                    "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/3516/274/AmbientSounds_v3.1.7_mc1.12.2.jar"
-                }
-            ]
+            "sources": []
         },
         {
             "fileName": "Apotheosis-1.12.2-1.12.5.jar",
@@ -259,16 +254,6 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/4075/832/Cyclic-1.12.2-1.20.14.jar"
-                }
-            ]
-        },
-        {
-            "fileName": "Dynmap-3.6-forge-1.12.2.jar",
-            "version": "3.6-818",
-            "sources": [
-                {
-                    "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/4632/192/Dynmap-3.6-forge-1.12.2.jar"
                 }
             ]
         },
@@ -609,6 +594,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "MysticalAgradditions-1.12.2-1.3.2.jar",
+            "version": "1.3.2",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2704/832/MysticalAgradditions-1.12.2-1.3.2.jar"
                 }
             ]
         },
