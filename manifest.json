@@ -1,6 +1,6 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
@@ -25,7 +25,12 @@
         {
             "fileName": "AmbientSounds_v3.1.7_mc1.12.2.jar",
             "version": "3.1.7",
-            "sources": []
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3516/274/AmbientSounds_v3.1.7_mc1.12.2.jar"
+                }
+            ]
         },
         {
             "fileName": "Apotheosis-1.12.2-1.12.5.jar",
@@ -44,6 +49,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2987/247/AppleSkin-mc1.12-1.0.14.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "appliedenergistics2-rv6-stable-7.jar",
+            "version": "rv6-stable-7",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2747/63/appliedenergistics2-rv6-stable-7.jar"
                 }
             ]
         },
@@ -114,6 +129,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2685/984/BetterAdvancements-1.12.2-0.1.0.77.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "BetterMineshaftsForge-1.12.2-2.2.1.jar",
+            "version": "1.12.2-2.2.1",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3247/154/BetterMineshaftsForge-1.12.2-2.2.1.jar"
                 }
             ]
         },
@@ -588,6 +613,16 @@
             ]
         },
         {
+            "fileName": "morerefinedstorage-1.2.02.jar",
+            "version": "${version}",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/5214/977/morerefinedstorage-1.2.02.jar"
+                }
+            ]
+        },
+        {
             "fileName": "MouseTweaks-2.10-mc1.12.2.jar",
             "version": "2.10",
             "sources": [
@@ -624,6 +659,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2893/527/NaturesCompass-1.12.2-1.8.5.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "nevoka-core-1.0.2.jar",
+            "version": "1.0.2",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2676/406/nevoka-core-1.0.2.jar"
                 }
             ]
         },
@@ -679,6 +724,26 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2924/91/Quark-r1.6-179.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "RebornCore-1.12.2-3.19.5-universal.jar",
+            "version": "3.19.5",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3330/308/RebornCore-1.12.2-3.19.5-universal.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "RebornStorage-1.12.2-3.3.4.1.jar",
+            "version": "3.3.4.1",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2833/871/RebornStorage-1.12.2-3.3.4.1.jar"
                 }
             ]
         },
@@ -889,6 +954,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/5717/39/Trinkets%20and%20Baubles-0.32.5.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "twilightforest-1.12.2-3.11.1021-universal.jar",
+            "version": "3.11.1021",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3051/450/twilightforest-1.12.2-3.11.1021-universal.jar"
                 }
             ]
         },
