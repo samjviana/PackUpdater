@@ -1,6 +1,6 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
@@ -39,6 +39,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2906/487/Apotheosis-1.12.2-1.12.5.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "AppleCore-mc1.12.2-3.4.0.jar",
+            "version": "3.4.0",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2969/118/AppleCore-mc1.12.2-3.4.0.jar"
                 }
             ]
         },
@@ -129,6 +139,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2685/984/BetterAdvancements-1.12.2-0.1.0.77.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "bettercaves-1.12.2-2.0.4.jar",
+            "version": "1.12.2-2.0.4",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3003/242/bettercaves-1.12.2-2.0.4.jar"
                 }
             ]
         },
@@ -279,6 +299,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/4075/832/Cyclic-1.12.2-1.20.14.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "DynamicTrees-1.12.2-0.9.29.jar",
+            "version": "1.12.2-0.9.29",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3812/473/DynamicTrees-1.12.2-0.9.29.jar"
                 }
             ]
         },
@@ -533,6 +563,26 @@
             ]
         },
         {
+            "fileName": "LegendaryTooltips-1.12.2-1.1.11.jar",
+            "version": "1.1.11",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/5734/973/LegendaryTooltips-1.12.2-1.1.11.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "llibrary-1.7.20-1.12.2.jar",
+            "version": "1.7.20-1.12.2",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3116/493/llibrary-1.7.20-1.12.2.jar"
+                }
+            ]
+        },
+        {
             "fileName": "lootr-1.12.2-0.6.2.jar",
             "version": "0.6.2",
             "sources": [
@@ -629,6 +679,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "mowziesmobs-1.5.8.jar",
+            "version": "1.5.8",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3048/685/mowziesmobs-1.5.8.jar"
                 }
             ]
         },
@@ -764,6 +824,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2940/914/refinedstorage-1.6.16.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "solcarrot-1.12.2-1.8.4.jar",
+            "version": "1.8.4",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2959/847/solcarrot-1.12.2-1.8.4.jar"
                 }
             ]
         },
