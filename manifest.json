@@ -1,6 +1,6 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "mods": [
         {
             "fileName": "!mixinbooter-10.7.jar",
@@ -299,6 +299,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/4075/832/Cyclic-1.12.2-1.20.14.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "dimensionapocketsii-1.12.2-5.2.101-beta-clientonly.jar",
+            "version": "5.2.101-beta",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3042/249/dimensionapocketsii-1.12.2-5.2.101-beta-clientonly.jar"
                 }
             ]
         },
@@ -1044,6 +1054,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/2859/589/Waystones_1.12.2-4.1.0.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "zeherlib-1.12.2-7.2.05-universal.jar",
+            "version": "7.2.05",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/3013/856/zeherlib-1.12.2-7.2.05-universal.jar"
                 }
             ]
         },
