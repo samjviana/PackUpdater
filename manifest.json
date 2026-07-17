@@ -1,14 +1,14 @@
 {
     "modpack": "GalactiCraft 1.12.2",
-    "version": "1.1.5",
+    "version": "1.2.0",
     "mods": [
         {
-            "fileName": "!mixinbooter-10.7.jar",
-            "version": "10.7",
+            "fileName": "!mixinbooter-11.5.jar",
+            "version": "11.5",
             "sources": [
                 {
                     "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/7049/694/!mixinbooter-10.7.jar"
+                    "url": "https://edge.forgecdn.net/files/8397/819/!mixinbooter-11.5.jar"
                 }
             ]
         },
@@ -123,12 +123,12 @@
             ]
         },
         {
-            "fileName": "Baubley-Elytra-v1.3.3-mc1.12.2.jar",
-            "version": "v1.3.3-mc1.12.2",
+            "fileName": "Baubley-Elytra-v1.3.6-mc1.12.2.jar",
+            "version": "v1.3.6-mc1.12.2",
             "sources": [
                 {
                     "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/4399/994/Baubley-Elytra-v1.3.3-mc1.12.2.jar"
+                    "url": "https://edge.forgecdn.net/files/8211/161/Baubley-Elytra-v1.3.6-mc1.12.2.jar"
                 }
             ]
         },
@@ -203,12 +203,12 @@
             ]
         },
         {
-            "fileName": "chunkloaders-1.2.9-forge-mc1.12.jar",
-            "version": "1.2.9",
+            "fileName": "chunkloaders-1.2.9a-forge-mc1.12.jar",
+            "version": "1.2.9+a",
             "sources": [
                 {
                     "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/6840/843/chunkloaders-1.2.9-forge-mc1.12.jar"
+                    "url": "https://edge.forgecdn.net/files/7601/415/chunkloaders-1.2.9a-forge-mc1.12.jar"
                 }
             ]
         },
@@ -453,12 +453,12 @@
             ]
         },
         {
-            "fileName": "HammerLib-1.12.2-12.2.58.jar",
-            "version": "12.2-58",
+            "fileName": "HammerLib-1.12.2-12.2.66.jar",
+            "version": "12.2.66",
             "sources": [
                 {
                     "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/6348/753/HammerLib-1.12.2-12.2.58.jar"
+                    "url": "https://edge.forgecdn.net/files/8428/179/HammerLib-1.12.2-12.2.66.jar"
                 }
             ]
         },
@@ -523,12 +523,12 @@
             ]
         },
         {
-            "fileName": "jei_1.12.2-4.16.1.1013.jar",
-            "version": "4.16.1.1013",
+            "fileName": "jei_1.12.2-4.16.5.1016.jar",
+            "version": "4.16.5.1016",
             "sources": [
                 {
                     "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/5846/804/jei_1.12.2-4.16.1.1013.jar"
+                    "url": "https://edge.forgecdn.net/files/8418/945/jei_1.12.2-4.16.5.1016.jar"
                 }
             ]
         },
@@ -553,12 +553,12 @@
             ]
         },
         {
-            "fileName": "justenoughmagiculture-1.12.2-1.2.1.jar",
-            "version": "1.12.2-1.2.1",
+            "fileName": "justenoughmagiculture-1.12.2-1.2.2.jar",
+            "version": "1.12.2-1.3.0",
             "sources": [
                 {
                     "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/5796/192/justenoughmagiculture-1.12.2-1.2.1.jar"
+                    "url": "https://edge.forgecdn.net/files/8018/292/justenoughmagiculture-1.12.2-1.2.2.jar"
                 }
             ]
         },
@@ -653,12 +653,12 @@
             ]
         },
         {
-            "fileName": "MmmMmmMmmMmm-1.12-2.0.5.jar",
+            "fileName": "MmmMmmMmmMmm-1.12-2.0.6.jar",
             "version": "2.0.0",
             "sources": [
                 {
                     "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/6391/31/MmmMmmMmmMmm-1.12-2.0.5.jar"
+                    "url": "https://edge.forgecdn.net/files/7454/196/MmmMmmMmmMmm-1.12-2.0.6.jar"
                 }
             ]
         },
@@ -784,6 +784,16 @@
                 {
                     "type": "curseforge",
                     "url": "https://edge.forgecdn.net/files/5661/244/plustic-9.2.1-original-mc1.12.2.jar"
+                }
+            ]
+        },
+        {
+            "fileName": "PotionFingers-r1.0-2.jar",
+            "version": "r1.0-2",
+            "sources": [
+                {
+                    "type": "curseforge",
+                    "url": "https://edge.forgecdn.net/files/2491/881/PotionFingers-r1.0-2.jar"
                 }
             ]
         },
@@ -1028,12 +1038,12 @@
             ]
         },
         {
-            "fileName": "Trinkets and Baubles-0.32.5.jar",
-            "version": "0.32.5",
+            "fileName": "Trinkets and Baubles-Forge-1.12.2-0.33.2.jar",
+            "version": "0.33.2",
             "sources": [
                 {
                     "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/5717/39/Trinkets%20and%20Baubles-0.32.5.jar"
+                    "url": "https://edge.forgecdn.net/files/7997/838/Trinkets%20and%20Baubles-Forge-1.12.2-0.33.2.jar"
                 }
             ]
         },
@@ -1068,12 +1078,12 @@
             ]
         },
         {
-            "fileName": "_supermartijn642corelib-1.1.18a-forge-mc1.12.jar",
-            "version": "1.1.18+a",
+            "fileName": "_supermartijn642corelib-1.1.21-forge-mc1.12.jar",
+            "version": "1.1.21",
             "sources": [
                 {
                     "type": "curseforge",
-                    "url": "https://edge.forgecdn.net/files/6863/699/_supermartijn642corelib-1.1.18a-forge-mc1.12.jar"
+                    "url": "https://edge.forgecdn.net/files/7783/295/_supermartijn642corelib-1.1.21-forge-mc1.12.jar"
                 }
             ]
         }
